@@ -14,11 +14,3 @@ print(difference2 - difference)
 print(symmetric_operator ^ symmetric_operator2)
 print(symmetric_operator2 ^ symmetric_operator2)
 print(union ^ union2)
-"""
-Unions - This operator will bring a set together.
-intersection - This operator will only print items in both
-difference - This operator will only print items in the first set
-symmetric difference - This operator will print the items that are
-different in the sets.
-Conclusion, 
-"""

@@ -6,8 +6,7 @@ def main():
     print = ("Welcome to Hangman! A word will be chosen at"
                "random and you must try to guess the word"
                "correctly letter by letter",
-               "before you run out of attempts. Good Luck!",
-             sep = "\n"
+               "before you run out of attempts. Good Luck!"
              )
 
     play_again = True
